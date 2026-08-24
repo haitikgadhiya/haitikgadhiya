@@ -1,5 +1,15 @@
 ## Hi there 👋
+<h1 align="center">
+  Hi 👋, I'm Haitik Gadhiya
+</h1>
 
+<h3 align="center">
+  AI/ML Engineer • Full-Stack Developer • Product Builder
+</h3>
+
+<p align="center">
+  Building intelligent applications that connect AI, data and modern web technologies.
+</p>
 <!--
 **haitikgadhiya/haitikgadhiya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
