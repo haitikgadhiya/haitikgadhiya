@@ -251,9 +251,7 @@ covering different algorithms and real-world datasets.
 
 ---
 
-# 📜 Certifications & Achievements
 
----
 
 # 📜 Certifications & Achievements
 
@@ -300,3 +298,51 @@ covering different algorithms and real-world datasets.
 | **Team Dried Up** | [📄 View](./certificates/Team_Dried_Up.pdf) |
 
 </details>
+
+---
+
+# 📊 GitHub Dashboard
+
+<p align="center">
+
+<img
+  src="https://github-readme-stats.vercel.app/api?username=haitikgadhiya&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"
+  height="180"
+  alt="GitHub Stats"
+/>
+
+<img
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=haitikgadhiya&layout=compact&theme=tokyonight&hide_border=true"
+  height="180"
+  alt="Top Languages"
+/>
+
+</p>
+
+---
+
+## 🔥 Contribution Streak
+
+<p align="center">
+
+<img
+  src="https://streak-stats.demolab.com/?user=haitikgadhiya&theme=tokyonight&hide_border=true"
+  width="70%"
+  alt="GitHub Contribution Streak"
+/>
+
+</p>
+
+---
+
+## 🏆 GitHub Achievements
+
+<p align="center">
+
+<img
+  src="https://github-profile-trophy.vercel.app/?username=haitikgadhiya&theme=tokyonight&no-frame=true&no-bg=true&margin-w=5"
+  width="90%"
+  alt="GitHub Trophies"
+/>
+
+</p>
