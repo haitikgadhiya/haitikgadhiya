@@ -1,26 +1,39 @@
-## Hi there 👋
 <h1 align="center">
   Hi 👋, I'm Haitik Gadhiya
 </h1>
 
-<h3 align="center">
-  AI/ML Engineer • Full-Stack Developer • Product Builder
-</h3>
+<p align="center">
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00A8FF&center=true&vCenter=true&width=700&lines=AI%2FML+Engineer;Full-Stack+Developer;Machine+Learning+Enthusiast;Product+Builder;Problem+Solver"
+    alt="Typing SVG"
+  />
+</p>
 
 <p align="center">
   Building intelligent applications that connect AI, data and modern web technologies.
 </p>
-<!--
-**haitikgadhiya/haitikgadhiya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<p align="center">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<a href="https://github.com/haitikgadhiya">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="YOUR_LINKEDIN_URL">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="YOUR_PORTFOLIO_URL">
+  <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+</a>
+
+</p>
+
+<p align="center">
+
+<img
+  src="https://komarev.com/ghpvc/?username=haitikgadhiya&label=PROFILE+VIEWS&color=00A8FF&style=flat-square"
+  alt="Profile Views"
+/>
+
+</p>
