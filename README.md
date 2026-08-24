@@ -128,3 +128,124 @@ I enjoy turning ideas into real-world applications by combining
 <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
 <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
 </p>
+
+## 🧠 Problem Solving
+---
+
+# 🚀 Featured Projects
+
+## 🍽️ JORA
+
+### Smart Restaurant Management Platform
+
+JORA is a modern restaurant management platform designed to connect
+**customers, managers and restaurant staff** through a unified system.
+
+### ✨ Key Features
+
+- 👤 Customer dashboard
+- 📋 Digital menu
+- 🛒 Online ordering
+- 👨‍💼 Manager dashboard
+- 👨‍🍳 Waiter / staff workflow
+- 📊 Restaurant analytics
+- 💰 Order and revenue management
+- 🔐 Role-based access
+
+### 🛠️ Tech Stack
+
+`React` `Node.js` `Express.js` `MongoDB`
+
+### 🔗 Project
+
+[View JORA Repository →](YOUR_JORA_REPOSITORY_URL)
+
+---
+
+## 🍎 SmartFresh AI
+
+### Deep Learning Based Fruit Freshness Detection
+
+SmartFresh AI is a computer vision project that uses deep learning
+to classify fruit images as **Fresh** or **Spoiled**.
+
+### ✨ Key Features
+
+- 📷 Image-based prediction
+- 🧠 CNN-based classification
+- 🤖 Deep Learning model
+- 📊 Model evaluation
+- 🍎 Fresh vs Spoiled classification
+- 🌐 Web application concept
+
+### 🛠️ Tech Stack
+
+`Python` `TensorFlow` `CNN` `Computer Vision`
+
+### 🔗 Project
+
+[View SmartFresh AI Repository →](YOUR_SMARTFRESH_REPOSITORY_URL)
+
+---
+
+## 🚀 StartupHub
+
+### Student Startup & Business Management Platform
+
+StartupHub is a platform designed to help students transform
+startup ideas into structured and trackable business projects.
+
+### ✨ Key Features
+
+- 💡 Startup idea management
+- 👥 Team management
+- 💰 Revenue tracking
+- 💸 Expense tracking
+- 📊 Business analytics
+- 📈 Growth tracking
+- 🎯 Pitch deck management
+- 🚀 Startup development workflow
+
+### 🛠️ Tech Stack
+
+`React` `Node.js` `Express.js` `MongoDB`
+
+### 🔗 Project
+
+[View StartupHub Repository →](YOUR_STARTUPHUB_REPOSITORY_URL)
+
+---
+
+## 🤖 Machine Learning Projects
+
+A collection of machine learning experiments and implementations
+covering different algorithms and real-world datasets.
+
+### 🧠 Topics
+
+`Linear Regression`
+
+`Decision Tree`
+
+`Random Forest`
+
+`SVM`
+
+`KNN`
+
+`K-Means`
+
+`Hierarchical Clustering`
+
+`Classification`
+
+`Regression`
+
+### 🛠️ Tools
+
+`Python` `NumPy` `Pandas` `Scikit-Learn` `Matplotlib` `Seaborn`
+
+### 🔗 Projects
+
+[Explore ML Projects →](YOUR_ML_REPOSITORY_URL)
+
