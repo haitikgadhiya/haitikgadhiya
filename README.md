@@ -19,12 +19,8 @@
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<a href="YOUR_LINKEDIN_URL">
+<a href="http://www.linkedin.com/in/haitikgadhiya">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="YOUR_PORTFOLIO_URL">
-  <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=google-chrome&logoColor=white"/>
 </a>
 
 </p>
@@ -162,31 +158,6 @@ JORA is a modern restaurant management platform designed to connect
 
 ---
 
-## 🍎 SmartFresh AI
-
-### Deep Learning Based Fruit Freshness Detection
-
-SmartFresh AI is a computer vision project that uses deep learning
-to classify fruit images as **Fresh** or **Spoiled**.
-
-### ✨ Key Features
-
-- 📷 Image-based prediction
-- 🧠 CNN-based classification
-- 🤖 Deep Learning model
-- 📊 Model evaluation
-- 🍎 Fresh vs Spoiled classification
-- 🌐 Web application concept
-
-### 🛠️ Tech Stack
-
-`Python` `TensorFlow` `CNN` `Computer Vision`
-
-### 🔗 Project
-
-[View SmartFresh AI Repository →](YOUR_SMARTFRESH_REPOSITORY_URL)
-
----
 
 ## 🚀 StartupHub
 
