@@ -229,19 +229,19 @@ covering different algorithms and real-world datasets.
 <p align="center">
   <img src="https://img.shields.io/badge/AWS-Cloud%20%26%20AI-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
   <img src="https://img.shields.io/badge/AI%20%26%20ML-Learning-7B61FF?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Professional-Development-00A8FF?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge-Professional-Development-00A8FF?style=for-the-badge"/>
 </p>
 
-<details>
+<details open>
 <summary><b>☁️ AWS Certifications</b></summary>
 
 <br>
 
 | Certification | Certificate |
 | :--- | :---: |
-| **AWS Academy – Cloud Architecting** | [📄 View](./certificates/AWS_Cloud_Architecting_Certificate.pdf) |
-| **AWS Academy – Cloud Foundations** | [📄 View](./certificates/AWS_Cloud_Foundations_Certificate.pdf) |
-| **AWS Academy – Machine Learning Foundations** | [📄 View](./certificates/AWS_Machine_Learning_Foundations_Certificate.pdf) |
+| **AWS Academy – Cloud Architecting** | [📄 View Certificate](./AWS_Cloud_Architecting_Certificate.pdf) |
+| **AWS Academy – Cloud Foundations** | [📄 View Certificate](./certificates/AWS_Cloud_Foundations_Certificate.pdf) |
+| **AWS Academy – Machine Learning Foundations** | [📄 View Certificate](./certificates/AWS_Machine_Learning_Foundations_Certificate.pdf) |
 
 </details>
 
@@ -252,8 +252,8 @@ covering different algorithms and real-world datasets.
 
 | Certification | Certificate |
 | :--- | :---: |
-| **Yuva AI for All** | [📄 View](./certificates/Yuva_AI_for_All.pdf) |
-| **Prompt Engineering** | [📄 View](./certificates/Prompt_Engineering.pdf) |
+| **Yuva AI for All** | [📄 View Certificate](./certificates/Yuva_AI_for_All.pdf) |
+| **Prompt Engineering** | [📄 View Certificate](./certificates/Prompt_Engineering.pdf) |
 
 </details>
 
@@ -264,9 +264,9 @@ covering different algorithms and real-world datasets.
 
 | Certification | Certificate |
 | :--- | :---: |
-| **JIRA** | [📄 View](./certificates/Coursera_JIRA.pdf) |
-| **Deloitte Certificate** | [📄 View](./certificates/Deloitte_Certificate.pdf) |
-| **Team Dried Up** | [📄 View](./certificates/Team_Dried_Up.pdf) |
+| **JIRA** | [📄 View Certificate](./certificates/Coursera_JIRA.pdf) |
+| **Deloitte Certificate** | [📄 View Certificate](./certificates/Deloitte_Certificate.pdf) |
+| **Team Dried Up** | [📄 View Certificate](./certificates/Team_Dried_Up.pdf) |
 
 </details>
 
