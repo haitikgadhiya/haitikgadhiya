@@ -239,9 +239,9 @@ covering different algorithms and real-world datasets.
 
 | Certification | Certificate |
 | :--- | :---: |
-| **AWS Academy – Cloud Architecting** | [📄 View Certificate](./AWS_Cloud_Architecting_Certificate.pdf) |
-| **AWS Academy – Cloud Foundations** | [📄 View Certificate](./certificates/AWS_Cloud_Foundations_Certificate.pdf) |
-| **AWS Academy – Machine Learning Foundations** | [📄 View Certificate](./certificates/AWS_Machine_Learning_Foundations_Certificate.pdf) |
+| **AWS Academy – Cloud Architecting** | [📄 View Certificate](./Certificates/AWS_Cloud_Architecting_Certificate.pdf) |
+| **AWS Academy – Cloud Foundations** | [📄 View Certificate](./Certificates/AWS_Cloud_Foundations_Certificate.pdf) |
+| **AWS Academy – Machine Learning Foundations** | [📄 View Certificate](./Certificates/AWS_Machine_Learning_Foundations_Certificate.pdf) |
 
 </details>
 
@@ -252,8 +252,8 @@ covering different algorithms and real-world datasets.
 
 | Certification | Certificate |
 | :--- | :---: |
-| **Yuva AI for All** | [📄 View Certificate](./certificates/Yuva_AI_for_All.pdf) |
-| **Prompt Engineering** | [📄 View Certificate](./certificates/Prompt_Engineering.pdf) |
+| **Yuva AI for All** | [📄 View Certificate](./Certificates/Yuva%20AI%20for%20All.pdf) |
+| **Prompt Engineering** | [📄 View Certificate](./Certificates/Prompt%20Engineering.pdf) |
 
 </details>
 
@@ -264,9 +264,9 @@ covering different algorithms and real-world datasets.
 
 | Certification | Certificate |
 | :--- | :---: |
-| **JIRA** | [📄 View Certificate](./certificates/Coursera_JIRA.pdf) |
-| **Deloitte Certificate** | [📄 View Certificate](./certificates/Deloitte_Certificate.pdf) |
-| **Team Dried Up** | [📄 View Certificate](./certificates/Team_Dried_Up.pdf) |
+| **JIRA** | [📄 View Certificate](./Certificates/Coursera%20JIRA.pdf) |
+| **Deloitte Certificate** | [📄 View Certificate](./Certificates/Deloitte%27s%20Certificate.pdf) |
+| **Team Dried Up** | [📄 View Certificate](./Certificates/Haitik%20Gadhiya_Team%20Dried%20Up.pdf) |
 
 </details>
 
